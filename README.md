@@ -1,4 +1,4 @@
-# Ubuntu-Clipboard-Sync
+# CGI-Clipboard-Sharing
 
 This is not an open source project. This repo is only available as a backup for myself. However, you are free to make any modifications and use it in anyway if you wish.
 
